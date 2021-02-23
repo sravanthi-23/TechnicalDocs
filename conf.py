@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'APSSDC Documentation'
-copyright = '2021, APSSDC'
-author = 'APSSDC'
+project = 'FIRSTDocumentation'
+copyright = '2021, VRSEC'
+author = 'SRAVS'
 
 # The full version, including alpha/beta/rc tags
 release = '2021'
